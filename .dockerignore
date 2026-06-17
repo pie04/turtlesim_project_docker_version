@@ -1,0 +1,13 @@
+.git
+.agents
+.codex
+.vscode
+build
+install
+log
+tmp_ros_logs
+**/__pycache__
+**/*.pyc
+*.db
+*.db-shm
+*.db-wal

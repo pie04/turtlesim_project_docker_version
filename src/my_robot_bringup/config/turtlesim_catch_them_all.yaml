@@ -1,0 +1,14 @@
+/turtle_spawner:
+  ros__parameters:
+    spawn_timer_period: 3.0
+    coordinate_period_for_alive_turtles: 1.0
+
+/master_controller:
+  ros__parameters:
+    v_step: 40.2
+    w_step: 2.5
+    v_max: 180.0
+    w_max: 50.0
+    publish_hz: 50.0
+    catch_distance: 0.8
+    p_gain: 20.0
