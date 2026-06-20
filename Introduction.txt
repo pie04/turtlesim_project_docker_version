@@ -1,1 +1,0 @@
-as a part  of ROS2 course from UDEMY,  I did this as a final project. but as I shared it with other people, I noticed they can't run it because of the packages aren't installed in their system. so I decided to bring up the whole project again with codex and put it in a docker so that I can share it with anyone.  
